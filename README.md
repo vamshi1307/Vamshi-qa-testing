@@ -1,4 +1,4 @@
 # Vamshi-qa-testing
 Commands to run scripts 
-./memory.sh
-python3 nginx_loganalyzer.py
+./system-Monitoring.sh
+Log-analyzer.py
